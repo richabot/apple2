@@ -1,0 +1,49 @@
+.divstyle{
+    width:50%;
+    margin:auto;
+    height:auto;
+    font-size:xx-large;
+    /* background-color: goldenrod; */
+}
+.part1
+{  width: 85%;
+    margin:auto;
+    height:100px;
+    font-size:x-large;
+    display:flex;
+    justify-content: space-between;
+}
+.part11
+{
+    height:auto;
+   
+    display:flex;
+    width: 85%;
+    margin:auto;
+    font-size: larger;
+   
+}
+.part2
+{ width: 85%;
+    margin:auto;
+    
+    height:80px;
+    display:flex;
+   
+}
+.part3
+{ width: 85%;
+    margin:auto;
+    height:80px;
+   
+    display:flex;
+   
+}
+.part4
+{ width: 85%;
+    margin:auto;
+    height:auto;
+    font-size:x-large;
+    display:flex;
+   
+}
